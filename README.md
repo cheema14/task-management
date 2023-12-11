@@ -4,7 +4,7 @@
 
 - Task Management with Project association
 - Draggable
-- Filterable
+- Filterable using project
 
 
 
@@ -14,4 +14,4 @@
 2. After installing composer, run <code>cp .env.example .env</code>
 3. Add your own DB and local server details and run <code>php artisan migrate --seed</code>
 4. At last, run <code>php artisan key:generate</code>
-5. Login credentials: email:**admin@admin.com** and password:**password**
+5. Login credentials: email **admin@admin.com** and password:**password**
